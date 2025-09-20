@@ -1,8 +1,9 @@
 <H3>Name</H3> GOKUL C
-<H3>Register no.</H3> 212223230102
+<H3>Register no.</H3> 212223240040
+
 <H3>Date</H3>18/09/2025
 <H3>Experiment No. 2 </H3>
-### Implementation of Perceptron for Binary Classification
+# Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
